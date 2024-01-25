@@ -20,3 +20,8 @@
   - [Qase](https://qase.io/)
   - [TestSigma](https://testsigma.com/)
   - [Tuskr](https://tuskr.app/)
+  - [Kualitee](https://www.kualitee.com/)
+  - [QAwolf](https://www.qawolf.com/)
+  - [Aqua Cloud](https://aqua-cloud.io/)
+  - [Testcollabe](https://testcollab.com/)
+  - [TestGear](https://test-gear.io/)
